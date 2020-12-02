@@ -1,0 +1,7 @@
+html,body,#app,.el-container,.welPage,h4{height: 100%;margin: 0;padding: 0;}
+.el-main{line-height: 0;height: 100%;margin: 0;padding: 0; overflow: hidden;}
+.el-dialog__body{
+    padding: 0 !important;
+}
+.el-card{margin-top: 10px;}
+.el-aside{height: 100%;}
